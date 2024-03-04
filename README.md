@@ -2,11 +2,16 @@
 中文原生工业测评基准
 
 ## 1. 介绍
-随着大模型突飞猛进的发展，该项技术向各行业、各领域的渗透已成不可逆转的趋势。工业领域，作为国家重点发展、建设的，关乎国民经济命脉的重点行业，大模型在其中的应用与布局已然取得了一些成绩，比如其可以用于工业领域的故障分析、辅助流程控制、代码生成等多个环节。
+随着大模型突飞猛进的发展，该项技术向各行业、各领域的渗透已成不可逆转的趋势。工业领域，作为国家重点发展、建设的，关乎国民经济命脉的重点行业，
 
-大模型虽适于工业应用，但多针对通用场景，不足以应对工业特有的专业性。工业数据包含术语、参数、流程及规范，通用模型难覆盖。工业场景中文模型评估起步但缺乏多轮开放式问题基准，导致开发者在模型优化和评估时无明确标准，难判其工业适宜性。
+大模型在其中的应用与布局已然取得了一些成绩，比如其可以用于工业领域的故障分析、辅助流程控制、代码生成等多个环节。
 
-为深化和丰富工业模型评估体系，我们推出SuperCLUE-Industry(SC-Industry)。SC-Industry通过通过基础能力和应用能力两大方向、六大维度对大模型进行效果评估，并加入了智能体Agent能力的测评。设计结合国际标准和中文特需，旨在推动工业大模型技术进步与创新。
+大模型虽适于工业应用，但多针对通用场景，不足以应对工业特有的专业性。工业数据包含术语、参数、流程及规范，通用模型难覆盖。
+工业场景中文模型评估已起步但缺乏多轮开放式问题基准，导致开发者在模型优化和评估时无明确标准，难判其工业适宜性。
+
+为深化和丰富工业模型评估体系，我们推出SuperCLUE-Industry(SC-Industry)。SC-Industry通过通过基础能力和应用能力两大方向、
+
+六大维度对大模型进行效果评估，并加入了智能体Agent能力的测评。设计结合国际标准和中文特需，旨在推动工业大模型技术进步与创新。
 
 文章地址：https://www.cluebenchmarks.com/superclue_industry.html
 
@@ -26,7 +31,9 @@
 
 SC-Industry旨在建立中文工业大模型测评的通用基准并逐步向各细分领域拓展。
 如SuperCLUE目前已发布的汽车行业测评基准，此后会在诸如原材料、制造、加工等领域进一步完善指标体系。
-[图片]
+
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Industry/blob/main/resources/img/industry.png"  width="100%" height="100%"></img>
+
 
 ### 2.2 评估方法与思路
 
@@ -97,5 +104,6 @@ SC-Industry旨在建立中文工业大模型测评的通用基准并逐步向各
 邮件标题：SuperCLUE-Industry工业测评申请，发送到contact@superclue.ai
 请使用单位邮箱，邮件内容包括：单位信息、文生视频大模型简介、联系人和所属部门、联系方式
 
-[图片]
-[图片]
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Industry/blob/main/resources/img/industry_group.jpeg"  width="30%" height="30%"></img>
+
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Industry/blob/main/resources/img/brightmart_s.jpeg"  width="30%" height="30%"></img>
