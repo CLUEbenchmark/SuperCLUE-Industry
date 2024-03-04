@@ -32,7 +32,7 @@
 SC-Industry旨在建立中文工业大模型测评的通用基准并逐步向各细分领域拓展。
 如SuperCLUE目前已发布的汽车行业测评基准，此后会在诸如原材料、制造、加工等领域进一步完善指标体系。
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE-Industry/blob/main/resources/img/industry.png"  width="100%" height="100%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Industry/blob/main/resources/img/industry.jpg"  width="100%" height="100%"></img>
 
 
 ### 2.2 评估方法与思路
